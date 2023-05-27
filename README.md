@@ -9,3 +9,9 @@ Some practices code for 79 Bootcamp's Java Fundamental.
   + [Intro to Boolean in Java](Booleanz.java)
   + [An Application of Boolean for SMK admission](Lulus.java)
   + [An Application of Boolean: Job Vacation](Job.java)
+- IF/IF-Else/Nested IF
+  + IF
+    ** [IF for Age Requirement](Age.java)
+  + IF-Else
+    ** [IF-Else for Ordering Food](OrderFood.java)
+  + Nested IF
