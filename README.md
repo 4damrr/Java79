@@ -8,3 +8,4 @@ Some practices code for 79 Bootcamp's Java Fundamental.
 - Boolean Expression
   + [Intro to Boolean in Java](Booleanz.java)
   + [An Application of Boolean for SMK admission](Lulus.java)
+  + [An Application of Boolean: Job Vacation](Job.java)
