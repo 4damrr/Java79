@@ -14,4 +14,5 @@ Some practices code for 79 Bootcamp's Java Fundamental.
     ** [IF for Age Requirement](Age.java)
   + IF-Else
     ** [IF-Else for Ordering Food](OrderFood.java)
+    ** [IF-Else for Cafe Booking](Cafe.java)
   + Nested IF
