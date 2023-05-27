@@ -11,8 +11,8 @@ Some practices code for 79 Bootcamp's Java Fundamental.
   + [An Application of Boolean: Job Vacation](Job.java)
 - IF/IF-Else/Nested IF
   + IF
-    ** [IF for Age Requirement](Age.java)
+    * [IF for Age Requirement](Age.java)
   + IF-Else
-    ** [IF-Else for Ordering Food](OrderFood.java)
-    ** [IF-Else for Cafe Booking](Cafe.java)
+    * [IF-Else for Ordering Food](OrderFood.java)
+    * [IF-Else for Cafe Booking](Cafe.java)
   + Nested IF
